@@ -27,8 +27,8 @@
 
 
 ### remove the data
-> rm /opt/biosensor/*.zip
-> rm /opt/biosensor/data/*.txt
+1. rm /opt/biosensor/*.zip
+2. rm /opt/biosensor/data/*.txt
 
 ### exit the docker image
 > exit
