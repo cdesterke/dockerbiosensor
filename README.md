@@ -4,7 +4,7 @@
   
 ***
 
-![docker](www.github.com/cdesterke/dockerbiosensor/docker.png)
+![docker](https://github.com/cdesterke/dockerbiosensor/blob/master/docker.png)
 
 ***
 
