@@ -22,13 +22,14 @@
 ### execute the biosensor software on the data
 > ./start.sh "patient_1"
 
-### inside the docker copy data inside the good direction
+### inside the docker copy data inside the direction of the share volume
 > cp /opt/biosensor/*.zip /opt/biosensor/data/
 
 
-### remove the data
-1. rm /opt/biosensor/*.zip
-2. rm /opt/biosensor/data/*.txt
+### remove the data after usage
+> rm /opt/biosensor/*.zip
+#
+> rm /opt/biosensor/data/*.txt
 
 ### exit the docker image
 > exit
